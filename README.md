@@ -1,4 +1,4 @@
-# CSDG-Rec
+# TRAIL
 
 This repository contains the anonymized source code for the BIBM submission.
 It includes model code, training/evaluation entry points, and data preprocessing
