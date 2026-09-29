@@ -166,8 +166,7 @@ Use `python src/main_train.py --help` to inspect all public runtime options.
 If you find this work useful, please cite the TRAIL paper. The final BibTeX entry will be added after publication metadata become available.
 
 ```text
-TRAIL: Trajectory-Aware Reasoning via Multi-Source Evidence Integration and
-Logit Refinement for Medication Recommendation.
+Lianghao Yu, Cong Wang, Yishuo Li, Xu Zhang, Cheng Li, Jianbin Guo, Wenpeng Lu. TRAIL: Trajectory-Aware Reasoning via Multi-Source Evidence Integration and Logit Refinement for Medication Recommendation. In Proceedings of the 2026 IEEE International Conference on Bioinformatics and Biomedicine [C]. Dallas, USA, 2026. (CCF B)
 ```
 
 ## Acknowledgements
